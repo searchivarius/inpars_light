@@ -6,8 +6,4 @@ Currently everything comes as a single tar.bal, which contains:
 3. Training data produced with and without consistency checking.
 We currently do not have bandwidth to provide a generic detailed description, we would be happy to address any specific questions about the code/scripts, generated data, etc.
 
-Download the file https://file.io/68gtfRk6gKxf (Warning: 3GB) untar it and read README.txt:
-```
-wget https://file.io/68gtfRk6gKxf
-tar jxvf 68gtfRk6gKxf
-```
+Download and unpack the file https://pub-71500f89ec1d42fd99b0e7f7a8cceaa4.r2.dev/inpars_repro.tar.bz2 (Warning: 3GB) untar it and read README.txt.
